@@ -1,0 +1,8 @@
+prefix=/home/action/newtonGauss_test/devel
+
+Name: newtonGaussTest
+Description: Description of newtonGaussTest
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

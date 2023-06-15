@@ -1,0 +1,2 @@
+newton_gauss_test
+-DCATKIN_DEVEL_PREFIX=/home/action/newtonGauss_test/devel -DCMAKE_INSTALL_PREFIX=/home/action/newtonGauss_test/install -G Unix Makefiles

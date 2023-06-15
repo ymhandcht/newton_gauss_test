@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/action/newtonGauss_test/install/setup.sh

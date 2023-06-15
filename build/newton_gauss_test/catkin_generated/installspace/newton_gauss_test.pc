@@ -1,0 +1,8 @@
+prefix=/home/action/newtonGauss_test/install
+
+Name: newton_gauss_test
+Description: Description of newton_gauss_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
