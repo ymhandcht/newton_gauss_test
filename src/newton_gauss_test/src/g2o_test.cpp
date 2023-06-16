@@ -12,6 +12,7 @@ using namespace std;
 int main(int argc,char **argv)
 {
     ros::init(argc, argv, "g2o_test");
+    cout << "hello" << endl;
 
     return 0;
 }
